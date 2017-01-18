@@ -12,8 +12,10 @@
     "express": "^4.4.5",
     "rc-slider": "^3.3.2",
     "react": "^15.0",
+    "react-dom": "^15.0",
+    "react-redux": "^5.0.2",
     "react-router": "^2.0.0",
-    "react-dom": "^15.0"
+    "redux": "^3.6.0"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
